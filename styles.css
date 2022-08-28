@@ -16,8 +16,17 @@ h1 {
   padding-left: 20px;
 }
 
+#heading {
+  margin: auto;
+}
+
 img {
-  margin: 25px;
+  
+}
+
+#thirdimage {
+  position: relative;
+  left: 30px;
 }
 
 
@@ -30,3 +39,5 @@ table{
   height: 500px;
   max-width: 1000px;
 }
+
+
